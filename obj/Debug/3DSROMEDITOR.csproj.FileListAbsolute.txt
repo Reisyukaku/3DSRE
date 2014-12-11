@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\bin\Debug\3DSROMEDITOR.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\bin\Debug\3DSROMEDITOR.exe
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\bin\Debug\3DSROMEDITOR.pdb
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\_3DSROMEDITOR.Form1.resources
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\_3DSROMEDITOR.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\3DSROMEDITOR.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\3DSROMEDITOR.exe
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\3DSROMEDITOR.pdb
+c:\users\adam\documents\visual studio 2013\Projects\3DSROMEDITOR\3DSROMEDITOR\obj\Debug\3DSROMEDITOR.csprojResolveAssemblyReference.cache
